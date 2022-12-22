@@ -1,0 +1,130 @@
+body {
+    background-color: #262626;
+}
+
+.navbar {
+    background-color: #ebebeb!important;
+   
+    font-family:'DM Serif Display', serif;
+    font-size: larger;
+}
+
+.navbar-nav ul {
+    padding-right: 500px;
+}
+
+    
+.nav-link {
+    color: rgb(0, 0, 0);
+}
+
+.navbar .nav-link:hover {
+    color: #BF9B7A;
+}
+
+#carrusel {
+margin-top: 89px;
+margin-bottom: 10px;
+}
+
+#museo {
+    padding-top: 50px;
+    color: white;
+    
+    
+    
+}
+
+#museo p {
+    font-family: 'Quicksand', sans-serif;
+    margin-left: 50px;
+    padding-bottom: 100px;
+    color: white;
+}
+
+
+h1{
+   font-family: 'DM Serif Display', serif;
+   padding-left: 50px;
+   padding-top: 100px;
+   padding-bottom: 50px;
+   color: #BF9B7A;
+   
+}
+
+h2{
+    font-family: 'DM Serif Display', serif;
+    padding-left: 50px;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    color:  #BF9B7A;
+
+}
+
+h3 {
+    font-family: 'DM Serif Display', serif;
+    padding-top: 20px;
+}
+
+.border-bottom {
+    padding-bottom: 20px;
+}
+
+
+
+#acordion p {
+    font-family: 'Quicksand', sans-serif;
+    margin-left: 50px;
+    padding-bottom: 50px;
+    color: white;
+}
+
+.btn  {
+    color: #F2F2F2;
+    background-color: #BF9B7A;
+    font-family:s 'Quicksand', sans-serif;
+   margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+
+.btn:hover {
+    color: #BF9B7A;
+}
+
+
+
+
+
+
+
+
+
+
+
+#final {
+    background-color:#ebebeb;
+    color: #BF9B7A;
+   margin-top: 300px;
+    font-family: 'DM Serif Display', serif;
+}
+
+#final p {
+    padding-top: 50px
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Bebas+Neue&family=DM+Serif+Display&family=Lora&family=Manrope:wght@400;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Lora&family=Manrope:wght@400;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Bebas+Neue&family=DM+Serif+Display&family=Lora&family=Manrope:wght@400;700;800&family=Quicksand:wght@500&display=swap');

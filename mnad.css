@@ -1,0 +1,105 @@
+body {
+    background-color: #262626;
+}
+
+.navbar {
+    background-color: #ebebeb!important;
+   
+    font-family:'DM Serif Display', serif;
+    font-size: larger;
+}
+
+.navbar-nav ul {
+    padding-right: 500px;
+}
+
+.nav-link {
+    color: rgb(0, 0, 0);
+}
+
+.navbar .nav-link:hover {
+    color: #BF9B7A;
+}
+
+#intro {
+    position: relative;
+    background: url(img/afuera.jpg) no-repeat center center  fixed;
+    background-size: cover;
+    height: 100vh;
+    color: #BF9B7A;
+    font-family: 'DM Serif Display', serif;
+}
+
+#intro h1 {
+    padding-top: 290px;
+}
+
+
+#inicio {
+    
+    
+    padding-bottom: 150px;
+    padding-top: 20px;
+
+    background-color: #ffffff;
+    color: #BF9B7A;
+    font-family: 'DM Serif Display', serif;
+    border-top: #262626;
+}
+
+.btn  {
+    color: #F2F2F2;
+    background-color: #BF9B7A;
+    font-family: 'Quicksand', sans-serif;
+}
+
+
+.btn:hover {
+    color: #BF9B7A;
+}
+
+#titulo{
+    margin-top: 100px;
+}
+#info {
+    margin-top: 100px;
+    color: #262626;
+    font-family:'Quicksand', sans-serif;
+    font-weight: 800;
+    font-size: x-large;
+
+}
+
+#foto {
+    margin-top: 100px;
+    
+}
+
+#carrusel {
+    font-family: 'DM Serif Display', serif;
+    color: #BF9B7A;
+text-align: center;
+padding: 200px;
+}
+
+#carrusel h2{
+    margin-bottom: 50px;
+}
+
+#carrusel p{
+    padding-top: 50px;
+}
+
+#final {
+    background-color:#ebebeb;
+    color: #BF9B7A;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: 'DM Serif Display', serif;
+}
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');

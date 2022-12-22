@@ -1,0 +1,142 @@
+body {
+    background-color: #262626;
+        
+    }
+    
+    .navbar {
+        background-color: #ebebeb!important;
+       
+        font-family:'DM Serif Display', serif;
+        font-size: larger;
+    }
+    
+    .navbar-nav ul {
+        padding-right: 500px;
+    }
+    
+    .nav-link {
+        color: rgb(0, 0, 0);
+    }
+    
+    .navbar .nav-link:hover {
+        color: #BF9B7A;
+    }
+
+
+
+#fotos {
+    
+    margin-top: 200px;
+}
+
+#fotos h1{
+    text-align: center;
+    color: #BF9B7A;
+    font-family: 'DM Serif Display', serif;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+#fotos h3 {
+    color: #262626;
+}
+
+#fotos p{
+    color: #ebebeb;
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+    margin-bottom: 200px;
+}
+
+#intro {
+    position: relative;
+    background: url(Img/jardin.jpg) no-repeat center center  fixed;
+    background-size: cover;
+    height: 100vh;
+    color: white;
+    font-family: 'DM Serif Display', serif;
+}
+
+#intro h1 {
+    padding-top: 290px;
+}
+
+
+.modal-body P{
+    color: #000000;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.btn  {
+    color: #F2F2F2;
+    background-color: #BF9B7A;
+    font-family: 'Quicksand', sans-serif;
+}
+
+
+.btn:hover {
+    color: #BF9B7A;
+}
+
+#productos h2 {
+    color: #BF9B7A;
+    font-family: 'DM Serif Display', serif;
+    text-align: center;
+}
+
+#productos p {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 600;
+}
+
+#productos h3 {
+    color: #BF9B7A;
+    font-family: 'DM Serif Display', serif;
+    
+}
+
+#mail {
+    color: white;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
+#final {
+    background-color:#ebebeb;
+    color: #BF9B7A;
+    padding-top: 20px;
+    
+    font-family: 'DM Serif Display', serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Bebas+Neue&family=DM+Serif+Display&family=Lora&family=Manrope:wght@400;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Lora&family=Manrope:wght@400;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Bebas+Neue&family=DM+Serif+Display&family=Lora&family=Manrope:wght@400;700;800&family=Quicksand:wght@500&display=swap');

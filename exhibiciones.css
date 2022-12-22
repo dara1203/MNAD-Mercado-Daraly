@@ -1,0 +1,112 @@
+body {
+    background-color: #262626;
+}
+
+.navbar {
+    background-color: #ebebeb!important;
+   
+    font-family:'DM Serif Display', serif;
+    font-size: larger;
+}
+
+.navbar-nav ul {
+    padding-right: 500px;
+}
+
+.nav-link {
+    color: rgb(0, 0, 0);
+}
+
+.navbar .nav-link:hover {
+    color: #BF9B7A;
+}
+
+#intro {
+    position: relative;
+    background: url(img/afuera.jpg) no-repeat center center  fixed;
+    background-size: cover;
+    height: 100vh;
+    color: white;
+    font-family: 'DM Serif Display', serif;
+}
+
+#intro h1 {
+    padding-top: 290px;
+}
+
+#fellini {
+    padding-top: 140px;
+    padding-bottom: 100px;
+}
+
+#fellini h2 {
+    color: #BF9B7A;
+    font-family: 'DM Serif Display', serif;
+}
+
+#fellini p {
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+}
+
+#italiano {
+    background-color: #ebebeb;
+    padding-top: 140px;
+    padding-bottom: 100px;
+    
+}
+
+#italiano h2{
+    color: #BF9B7A;
+    font-family: 'DM Serif Display', serif;
+
+}
+
+#italiano p {
+    font-family:'Quicksand', sans-serif;
+    padding-top: 50px;
+}
+
+
+.col-md-12 {
+    padding-bottom: 80px;
+}
+
+.btn  {
+    color: #F2F2F2;
+    background-color: #BF9B7A;
+    font-family: 'Quicksand', sans-serif;
+}
+
+#frances {
+    padding-top: 140px;
+    padding-bottom: 100px;
+
+}
+
+#frances h2{
+    color: #BF9B7A;
+    font-family: 'DM Serif Display', serif;
+}
+
+#frances p{
+    font-family:'Quicksand', sans-serif;
+    padding-top: 50px;
+    color: white;
+}
+
+
+#final {
+    background-color:#ebebeb;
+    color: #BF9B7A;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: 'DM Serif Display', serif;
+}
+
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');

@@ -1,0 +1,91 @@
+body {
+    background-color: #262626;
+        
+    }
+    
+    .navbar {
+        background-color: #ebebeb!important;
+       
+        font-family:'DM Serif Display', serif;
+        font-size: larger;
+    }
+    
+    .navbar-nav ul {
+        padding-right: 500px;
+    }
+    
+    .nav-link {
+        color: rgb(0, 0, 0);
+    }
+    
+    .navbar .nav-link:hover {
+        color: #BF9B7A;
+    }
+
+    
+#intro {
+    position: relative;
+    background: url(img/museo\ 2.jpg) no-repeat center center  fixed;
+    background-size: cover;
+    height: 100vh;
+    color: white;
+    font-family: 'DM Serif Display', serif;
+}
+
+#intro h1 {
+    padding-top: 390px;
+}
+
+#mapa {
+    padding-top: 60px;
+}
+
+#mapa h2{
+    color: #BF9B7A;
+    font-family: 'DM Serif Display', serif;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+#mapa h3 {
+    color: #BF9B7A;
+    font-family: 'DM Serif Display', serif;
+}
+
+#mapa p {
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.btn  {
+    color: #F2F2F2;
+    background-color: #BF9B7A;
+    font-family: 'Quicksand', sans-serif;
+}
+
+
+.btn:hover {
+    color: #BF9B7A;
+}
+
+#horario {
+    padding-top: 220px;
+}
+
+#contacto {
+    padding-top: 100px;
+    color: #ebebeb;
+}
+
+
+
+#final {
+    background-color: #ebebeb;
+    margin-top: 300px;
+    padding-top: 20px;
+}
+
+#final p{
+    color: #BF9B7A;
+    font-family: 'DM Serif Display', serif;
+}
